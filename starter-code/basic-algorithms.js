@@ -81,4 +81,4 @@ let lorem = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non en
 console.log(lorem.split(" ").length) 
 let myRegex = /et/
 //Make your program count the number of times the latin word et appears
-console.log(lorem.match(myRegex))
+console.log(lorem.match(myRegex)) 
